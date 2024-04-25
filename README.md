@@ -1,4 +1,4 @@
-# 👋 Hola, soy @ricardoadmdo - Ricardo Alejandro D'Escoubet Montes de Oca
+# 👋 Hola, soy Ricardo Alejandro D'Escoubet Montes de Oca  - @ricardoadmdo
 
 ## Sobre mí
 Soy un **Estudiante de Desarrollo Web** profundamente apasionado por las tecnologías web. Me especializo en **React JS, JavaScript, NodeJS, Backend, Frontend, MongoDB, MySQL, y Bootstrap**. Mi ambición es sumergirme en proyectos desafiantes que me permitan crecer profesionalmente y aplicar mis conocimientos técnicos en un entorno dinámico.
