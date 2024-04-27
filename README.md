@@ -1,4 +1,4 @@
-<h1> Hola, soy Ricardo Alejandro D'Escoubet Montes de Oca 👋🏻 - @ricardoadmdo </h1>
+<h1> 😁Hola, soy Ricardo Alejandro D'Escoubet Montes de Oca 👋🏻 - @ricardoadmdo </h1>
 
 ## Sobre mí
 Soy graduado de Ingeniería en Ciencias Informáticas en la Universidad de Las Ciencias Informáticas (UCI), profundamente apasionado por el Desarrollo Web. Mi especialización abarca desde el **Frontend** hasta el **Backend**, y me encanta construir soluciones completas.
