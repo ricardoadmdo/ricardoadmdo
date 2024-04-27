@@ -12,7 +12,8 @@ Algunas de mis habilidades y tecnologías favoritas son:
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white&amp;labelColor=101010" alt="MongoDB">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white&amp;labelColor=101010" alt="MySQL">
   <img src="https://img.shields.io/badge/React.JS-0095D5?style=for-the-badge&amp;logo=react&amp;logoColor=white&amp;labelColor=101010" alt="React">
-  <img src="https://img.shields.io/badge/Bootstrap-#7952B3?style=for-the-badge&amp;logo=react&amp;logoColor=white&amp;labelColor=101010" alt="Bootstrap">
+  <img src='https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&;logoColor=white&labelColor=101010" alt="Bootstrap">
+
 
 Mi ambición es sumergirme en proyectos desafiantes que me permitan crecer profesionalmente y aplicar mis conocimientos técnicos en un entorno dinámico.
 
