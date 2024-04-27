@@ -3,6 +3,11 @@
 ## Sobre mí
 Soy un **Estudiante de Desarrollo Web** profundamente apasionado por las tecnologías web. Me especializo en **React JS, JavaScript, NodeJS, Backend, Frontend, MongoDB, MySQL, y Bootstrap**. Mi ambición es sumergirme en proyectos desafiantes que me permitan crecer profesionalmente y aplicar mis conocimientos técnicos en un entorno dinámico.
 
+
+
+Specialized in:
+JavaScript TypeScript Node.JS MongoDB MySQL PostgreSQL React Next Astro Tailwindcss
+
 ## Experiencia
 - **Profesor Auxiliar** en la Universidad de las Ciencias Informáticas, La Habana, Cuba (01/2023 - actualidad)
   - Impartiendo conocimientos teóricos y prácticos en sistemas de bases de datos y programación.
