@@ -6,7 +6,13 @@ Soy graduado de Ingeniería en Ciencias Informáticas en la Universidad de Las C
 
 Algunas de mis habilidades y tecnologías favoritas son:
 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=white&amp;labelColor=101010" alt="JavaScript"> <img src="https://img.shields.io/badge/TypeScript-1575F9?style=for-the-badge&amp;logo=typescript&amp;logoColor=white&amp;labelColor=101010" alt="TypeScript"><img src="https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&amp;logo=node.js&amp;logoColor=white&amp;labelColor=101010" alt="Node.JS"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white&amp;labelColor=101010" alt="MongoDB"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white&amp;labelColor=101010" alt="MySQL"><img src="https://img.shields.io/badge/React.JS-0095D5?style=for-the-badge&amp;logo=react&amp;logoColor=white&amp;labelColor=101010" alt="React"><img src="https://img.shields.io/badge/Bootstrap-#7952B3?style=for-the-badge&amp;logo=react&amp;logoColor=white&amp;labelColor=101010" alt="React">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=white&amp;labelColor=101010" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-1575F9?style=for-the-badge&amp;logo=typescript&amp;logoColor=white&amp;labelColor=101010" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&amp;logo=node.js&amp;logoColor=white&amp;labelColor=101010" alt="Node.JS">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white&amp;labelColor=101010" alt="MongoDB">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white&amp;labelColor=101010" alt="MySQL">
+  <img src="https://img.shields.io/badge/React.JS-0095D5?style=for-the-badge&amp;logo=react&amp;logoColor=white&amp;labelColor=101010" alt="React">
+  <img src="https://img.shields.io/badge/Bootstrap-#7952B3?style=for-the-badge&amp;logo=react&amp;logoColor=white&amp;labelColor=101010" alt="Bootstrap">
 
 Mi ambición es sumergirme en proyectos desafiantes que me permitan crecer profesionalmente y aplicar mis conocimientos técnicos en un entorno dinámico.
 
