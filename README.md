@@ -1,4 +1,4 @@
-<h1> 😁Hola, soy Ricardo Alejandro D'Escoubet Montes de Oca 👋🏻 - @ricardoadmdo </h1>
+<h1> 😉Hola, soy Ricardo Alejandro D'Escoubet Montes de Oca 👋🏻 - @ricardoadmdo </h1>
 
 ## Sobre mí
 Soy graduado de Ingeniería en Ciencias Informáticas en la Universidad de Las Ciencias Informáticas (UCI), profundamente apasionado por el Desarrollo Web. Mi especialización abarca desde el **Frontend** hasta el **Backend**, y me encanta construir soluciones completas.
@@ -24,10 +24,15 @@ Mi ambición es sumergirme en proyectos desafiantes que me permitan crecer profe
   - **Graduado Universitario con Título de Oro 🥇** - Reconocimiento de excelencia académica.
   - **Premio al Mérito Científico 👨🏻‍🔬** - Galardón por una destacada trayectoria en investigación y ciencia en Cuba.
 
-## Intereses
-- 👀 Estoy interesado en **proyectos innovadores** que utilicen tecnologías de vanguardia para crecer y aprender.
-- 💞️ Busco colaborar en **proyectos que tengan un impacto positivo en la comunidad**.
-- 📫 Puedes contactarme a través de mi correo electrónico.
+<h3>Contáctame en: </h3>
+<a href="https://www.instagram.com/ricardodescoubet"><img src="https://img.shields.io/badge/Instagram-Ricardo_D´Escoubet-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white&amp;labelColor=101010" alt="Instagram"></a>
+<a href="www.linkedin.com/in/ricardo-alejandro-14aa6230"><img src="https://img.shields.io/badge/LinkedIn-Ricardo_D´Escoubet-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=101010" alt="LinkedIn"></a>
+<a href="https://wa.me/qr/56ASYHNQDK4OH1"><img src="https://img.shields.io/badge/Whatsapp-Ricardo_D%C2%B4Escoubet-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=black" alt="LinkedIn"></a>
+
+
+
+
+
 
 <!---
 ricardoadmdo/ricardoadmdo es un repositorio ✨ especial ✨ porque su `README.md` (este archivo) aparece en tu perfil de GitHub.
