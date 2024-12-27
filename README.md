@@ -10,9 +10,12 @@ I am a graduate of Computer Science Engineering from the University of Computer 
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=ricardoadmdo&theme=dracula)
 
+
 ## 📊 GitHub Stats
-![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardoadmdo&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_title=false&token=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)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoadmdo&langs_count=8&theme=radical&layout=compact&token=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)
+![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardoadmdo&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_title=false&token=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)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoadmdo&langs_count=8&theme=dark&layout=compact&token=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)
+
 
 ## 💼 Experience
 - **Assistant Professor 🧑🏻‍🏫** at the University of Computer Sciences, Havana, Cuba (01/2022 - 12/2024)
