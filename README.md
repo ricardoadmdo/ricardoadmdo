@@ -7,7 +7,6 @@ I am a **Computer Science Engineer** passionate about creating impactful and eff
 
 
 ## 🚀 My Development Stack
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white&amp;labelColor=101010" alt="HTML5"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=white&amp;labelColor=101010" alt="JavaScript"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white&amp;labelColor=101010" alt="TypeScript"> <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&amp;logo=npm&amp;logoColor=white&amp;labelColor=101010" alt="NPM"> <img src="https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&amp;logo=node.js&amp;logoColor=white&amp;labelColor=101010" alt="Node.JS"> <img src="https://img.shields.io/badge/Express-%23000000?style=for-the-badge&amp;logo=express&amp;logoColor=white&amp;labelColor=101010" alt="Express"> <img src="https://img.shields.io/badge/React.JS-0095D5?style=for-the-badge&amp;logo=react&amp;logoColor=white&amp;labelColor=101010" alt="React"> <img src="https://img.shields.io/badge/React_Query-F21986?style=for-the-badge&amp;logo=react-query&amp;logoColor=white&amp;labelColor=101010" alt="React Query"> <img src="https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white&amp;labelColor=101010" alt="Bootstrap"> <img src="https://img.shields.io/badge/Tailwindcss-0095D5?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white&amp;labelColor=101010" alt="Tailwindcss"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white&amp;labelColor=101010" alt="MongoDB"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white&amp;labelColor=101010" alt="MySQL"> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white&amp;labelColor=101010" alt="PostgreSQL"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=101010" alt="GitHub"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white&amp;labelColor=101010" alt="Git"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white&amp;labelColor=101010" alt="Postman"> <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&amp;logo=eslint&amp;logoColor=white&amp;labelColor=101010" alt="ESLint"> <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&amp;logo=visual%20studio%20code&amp;logoColor=white&amp;labelColor=101010" alt="Visual Studio Code"> <img src="https://img.shields.io/badge/Hostinger-VPS%20Hosting-00A3E9?style=for-the-badge&amp;logo=hostinger&amp;logoColor=white&amp;labelColor=101010" alt="Hostinger VPS Hosting"> <img src="https://img.shields.io/badge/Handlebars-000000?style=for-the-badge&amp;logo=handlebars.js&amp;logoColor=white&amp;labelColor=101010" alt="Handlebars"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white&amp;labelColor=101010" alt="PHP"> <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&amp;logo=wordpress&amp;logoColor=white&amp;labelColor=101010" alt="WordPress"> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&amp;logo=laravel&amp;logoColor=white&amp;labelColor=101010" alt="Laravel">
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" alt="javascript logo"  />
   <img width="12" />
@@ -19,26 +18,38 @@ I am a **Computer Science Engineer** passionate about creating impactful and eff
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="48" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="48" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="48" alt="eslint logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="48" alt="tailwindcss logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="48" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48" alt="mysql logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="48" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="48" alt="npm logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="48" alt="postman logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="48" alt="eslint logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48" alt="vscode logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="48" alt="socketio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="48" alt="tensorflow logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48" alt="vscode logo"  />
 </div>
+
 
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=ricardoadmdo&theme=dracula)
@@ -64,11 +75,12 @@ I am a **Computer Science Engineer** passionate about creating impactful and eff
 
 ## 📫 Let's Connect!
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
-  <a href="https://www.linkedin.com/in/ricardo-alejandro-14aa62306"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  /></a>  
-   <a href="https://wa.me/qr/56ASYHNQDK4OH1"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="47" height="35" alt="whatsapp logo"  /></a>  
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="47" height="35" alt="telegram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
+<a href="https://github.com/ricardoadmdo" target="_blank">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" alt="github logo"  /></a>
+<a href="mailto:descoubet0107@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="Gmail logo" /></a>
+<a href="https://www.linkedin.com/in/ricardo-alejandro-14aa62306/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"/></a>
+<a href="https://wa.me/5355599180" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="47" height="35" alt="whatsapp logo"/></a>
+<a href="https://www.facebook.com/ricardo.descoubet.9" target="_blank">  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="facebook logo"  /></a>
+<a href="https://www.instagram.com/ricardodescoubet/" target="_blank">  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  /></a>
+<a href="https://t.me/RicardoAlejandro" target="_blank">  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="47" height="35" alt="telegram logo"  /></a>
+<a href="https://x.com/REscoubet" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  /></a>
 </div>
