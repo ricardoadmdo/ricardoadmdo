@@ -1,10 +1,9 @@
 <h2 align="left">Hi 👋🏻! My name is Ricardo Alejandro D'Escoubet Montes De Oca - @ricardoadmdo and I'm a Full Stack Developer from La Havana Cuba 😉 </h2>
+
+<img align="center" height="150" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47zi04me71153x08mydh6z5bxme8lduf6tkr55cs72&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
 ## About Me
 I am a **Computer Science Engineer** passionate about creating impactful and efficient web solutions. My expertise spans both **Frontend** and **Backend** development, with a strong focus on building complete, robust applications. I have a deep appreciation for **clean code**, **scalable architectures**, and delivering exceptional user experiences.
-
-
-<img align="right" height="150" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47zi04me71153x08mydh6z5bxme8lduf6tkr55cs72&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
 
 ## 🚀 My Development Stack
 <div align="left">
